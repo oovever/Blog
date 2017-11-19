@@ -13,3 +13,4 @@
 
 [JAVA用户注册登录使用MD5非对称加密解密](http://blog.csdn.net/mupengfei6688/article/details/78578303)
 
+[JAVA改变image大小，将Image改为Jpg格式](http://blog.csdn.net/mupengfei6688/article/details/78578377)
