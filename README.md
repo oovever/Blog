@@ -9,3 +9,7 @@
 
 [JAVA 读取属性文件方式](http://blog.csdn.net/mupengfei6688/article/details/78577547)
 
+[JAVA使用jodatime进行date类型与string类型的时间相互转换](http://blog.csdn.net/mupengfei6688/article/details/78578007)
+
+[JAVA用户注册登录使用MD5非对称加密解密](http://blog.csdn.net/mupengfei6688/article/details/78578303)
+

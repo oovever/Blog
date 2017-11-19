@@ -9,6 +9,20 @@
 ### 二 具体实现
 
 ```java
+ import org.apache.commons.lang3.StringUtils;
+import org.joda.time.DateTime;
+import org.joda.time.format.DateTimeFormat;
+import org.joda.time.format.DateTimeFormatter;
+
+import java.util.Date;
+
+/**
+ * Created by OovEver on 2017/11/19.
+ * 由于在web开发中，数据库里所用的时间类型与开发端所用时间类型不一致，有时需要在数据库中，以string
+ * 形式存储时间，在开发端使用数据库传来的时间时，再将String类型的时间转化为DATE类型的时间。
+ * 使用jodatime转化时间
+ * https://sourceforge.net/projects/joda-time/
+ */
 public class DateTimeUtil {
     public static final String STANDARD_FORMAT = "yyyy-MM-dd HH:mm:ss";
 
@@ -66,7 +80,7 @@ public class DateTimeUtil {
         System.out.println(DateTimeUtil.strToDate("2010-01-01 11:11:11","yyyy-MM-dd HH:mm:ss"));
 
     }
-}
+}xxxxxxxxxx 
 
 ```
 
