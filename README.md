@@ -20,3 +20,8 @@
 [IDEA常见使用技巧](http://blog.csdn.net/mupengfei6688/article/details/78582163)
 
 [JAVA 使用反射获得继承类](http://blog.csdn.net/mupengfei6688/article/details/78583118)
+
+[JVM从入门到基础(一) 一JVM介绍](http://blog.csdn.net/mupengfei6688/article/details/78586406)
+
+[JVM从入门到基础(二) 一JVM运行机制](http://blog.csdn.net/mupengfei6688/article/details/78587958)
+
