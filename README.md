@@ -27,3 +27,5 @@
 
 [JAVA从入门到基础(三) 一 常用JVM配置参数](http://blog.csdn.net/mupengfei6688/)
 
+[JAVA从入门到基础(四) 一 GC算法与种类](http://blog.csdn.net/mupengfei6688/article/details/78597100)
+
