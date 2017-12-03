@@ -40,3 +40,5 @@
 [gitignore常见配置](http://blog.csdn.net/mupengfei6688/article/details/78701276)
 
 [SpringBoot 使用Slf4j简化日志开发](http://blog.csdn.net/mupengfei6688/article/details/78702155)
+
+[SpingBoot Logback配置文件撰写](http://blog.csdn.net/mupengfei6688/article/details/78702402)
