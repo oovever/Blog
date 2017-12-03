@@ -38,3 +38,5 @@
 [JAVA从入门到基础(八) 一性能监控工具](http://blog.csdn.net/mupengfei6688/article/details/78604586)
 
 [gitignore常见配置](http://blog.csdn.net/mupengfei6688/article/details/78701276)
+
+[SpringBoot 使用Slf4j简化日志开发](http://blog.csdn.net/mupengfei6688/article/details/78702155)
